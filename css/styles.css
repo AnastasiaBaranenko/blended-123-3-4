@@ -32,3 +32,33 @@ a {
   padding-right: 20px;
   padding-left: 20px;
 }
+
+/*-------HEADER-------*/
+
+.header-container {
+  display: flex;
+  align-items: center;
+}
+
+.header-nav {
+  display: flex;
+  align-items: center;
+}
+
+.header-nav-logo {
+  gap: 4px;
+  margin-right: 237px;
+}
+
+.header-menu-list {
+  display: flex;
+  align-items: center;
+  gap: 30px;
+  margin-right: 73px;
+}
+
+.header-btn-list {
+  display: flex;
+  align-items: center;
+  gap: 21px;
+}
